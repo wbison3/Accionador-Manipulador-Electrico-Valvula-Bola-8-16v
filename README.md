@@ -12,14 +12,13 @@ El Archivo Aspersores.ino está pensado para operar aspersores de agua para past
   
 Armado
 =======
-1. Ambos ejes de rotación deben quedar lo mejor alineados posible. Esto es alinear el eje de rotación de la manivela del manipulador eléctrico al eje de rotación de la válvula a manipular y que tenga poco juego. Ni nada, ni mucho, poco juego. Esta es probablemente la parte más dificil o la más fácil dependiendo si te sirve el soporte tal cual. Dejo fotos y video de cómo adaptamos nosotros para llave de 1 pulgada, ya que con el soporte que viene no fue posible sin modificaciones.
-<img width="250" src="https://github.com/wbison3/Accionador-Manipulador-Electrico-Valvula-Bola-8-16v/blob/main/Soporte%20y%20alineaci%C3%B3n%20de%20ejes%20de%20rotaci%C3%B3n.jpg">
-2. El Manipulador Eléctrico debe estar lo más firme posible, lo suficiente para contra restar la fuerza necesaria para abrir la valvula.
-3. Es recomendable estañar las puntas de los cables para que su agarre sea más firme al atornillarlos en los conectores. Solo es calentar la punta del cable con un cautín hasta que la soldadura se derrita y fluya por la punta 1 o 2 segundos.
-4. Es probable que ocupes algún extensor de Wi-Fi para que se conecte corretamente el enchufe inteligente.
-5. El código esta pensado para que FORWARD abra y BACKWARD cierre. Por lo que la polaridad de M1 debe ser negro,rojo como se muestra
-6. Es posible usar 1 solo eliminador, o un eliminador más pequeño para Arduino. Como compro de a varios estos eliminadores, por eso use uno de 12v2a para arduino también y quería un diseño más robusto al usar fuentes de poder independientes. No olvides desconectar el jumper de poder del shield para no dañar el arduino en caso que decidas tener fuente de alimentación independiente también.
-7. Conseguir algún tipo de caja que proteja de polvo y contaminación la tarjeta de arduino.
+1. Ambos ejes de rotación deben quedar lo mejor alineados posible. Esto es alinear el eje de rotación de la manivela del manipulador eléctrico al eje de rotación de la válvula a manipular y que tenga poco juego. Ni nada, ni mucho, poco juego. Esta es probablemente la parte más dificil o la más fácil dependiendo si te sirve el soporte tal cual. Dejo fotos y video de cómo adaptamos nosotros para llave de 1 pulgada, ya que con el soporte que viene no fue posible sin modificaciones.  <br><img width="250" src="https://github.com/wbison3/Accionador-Manipulador-Electrico-Valvula-Bola-8-16v/blob/main/Soporte%20y%20alineaci%C3%B3n%20de%20ejes%20de%20rotaci%C3%B3n.jpg">  
+2. El Manipulador Eléctrico debe estar lo más firme posible, lo suficiente para contra restar la fuerza necesaria para abrir la valvula.  
+3. Es recomendable estañar las puntas de los cables para que su agarre sea más firme al atornillarlos en los conectores. Solo es calentar la punta del cable con un cautín hasta que la soldadura se derrita y fluya por la punta 1 o 2 segundos.  
+4. Es probable que ocupes algún extensor de Wi-Fi para que se conecte corretamente el enchufe inteligente.  
+5. El código esta pensado para que FORWARD abra y BACKWARD cierre. Por lo que la polaridad de M1 debe ser negro,rojo como se muestra  
+6. Es posible usar 1 solo eliminador, o un eliminador más pequeño para Arduino. Como compro de a varios estos eliminadores, por eso use uno de 12v2a para arduino también y quería un diseño más robusto al usar fuentes de poder independientes. No olvides desconectar el jumper de poder del shield para no dañar el arduino en caso que decidas tener fuente de alimentación independiente también.  
+7. Conseguir algún tipo de caja que proteja de polvo y contaminación la tarjeta de arduino.  
 
   
 Casos de uso  
