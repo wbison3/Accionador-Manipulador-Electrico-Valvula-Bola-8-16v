@@ -9,7 +9,7 @@
 AF_DCMotor motor(1);
 #define SPEED 200
 #define TIEMPO_RECORRIDO 25*1000      // 25s - toma 12s libre y como 15s ya montado. Montado se nota menor velocidad por el esfuerzo.
-                                      // A veces tooma de 1-3 segundos empezar a moverse dependiendo que tan dura se ponga la llave al principio.
+                                      // A veces toma de 1-3 segundos empezar a moverse dependiendo que tan dura se ponga la llave al principio.
                                       // Se recomienda utilizar aflojatodo en la llave para que no se atasque.
                                       // El manipulador electrico ya trae protección de sobre corriente. Los 10s que se dejan de seguridad no debe pasar nada.
 #define TIEMPO_DE_RIEGO 120000        // 2min. 2*60*1000. No multiplicar aquí. El preprocesador no soporta números grandes, poner el valor exacto.
