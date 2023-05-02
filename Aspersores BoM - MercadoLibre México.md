@@ -19,4 +19,5 @@ https://articulo.mercadolibre.com.mx/MLM-927719936-conectores-barril-macho-hembr
 Multicontactos
 https://articulo.mercadolibre.com.mx/MLM-1810277766-multicontacto-divitech-6-entradas-y-cable-de-cobre-1800w-_JM
 
-
+Es probable que ocupes algún extensor de Wi-Fi para que se conecte corretamente el enchufe inteligente.
+https://www.mercadolibre.com.mx/router-tp-link-tl-wr840n-blanco/p/MLM15314118
