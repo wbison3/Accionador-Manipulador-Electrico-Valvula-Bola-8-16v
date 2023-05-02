@@ -29,7 +29,7 @@ Los aspersores riegan el pasto por 2 minutos, tan tas veces como queramos en el 
 Instrucciones  
 - El enchufe inteligente, usando la aplicación de Sonoff o del que hayan comporado, se programa con la opción de pulsos para que automaticamente se apague a los 3 minutos.  
 - El enchufe inteligente se agenda para que se prenda en los horarios que queramos. Por efecto de la configuración de pulsos solito se va a pagar. O si su enchufe no suporta esto, entonces agendar el apagado tambien.  
-Sin cambios, Arduino estaría programado para 25s de apertura de valvula + 120s de rigo + 25s de cerrado de valvula, Arduido toma entre 1-3s en iniciar el programa. Eso es un total de 2:53s. Por lo que podemos agendar nuestro apagador inteligente para apagarse a los 3 minutos.  
+Sin cambios, Arduino estaría programado para 25s de apertura de valvula + 120s de riego + 25s de cerrado de valvula, Arduido toma entre 1-3s en iniciar el programa. Eso es un total de 2:53s. Por lo que podemos agendar nuestro apagador inteligente para apagarse a los 3 minutos.  
   
 2. Caso de uso especial cerrado de valvula.  
 Cerrar la valvula inmediatamente que empieza a abrirse.  
