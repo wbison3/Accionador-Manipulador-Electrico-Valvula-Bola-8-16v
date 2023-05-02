@@ -33,7 +33,7 @@ Sin cambios, Arduino estaría programado para 25s de apertura de valvula + 120s 
   
 2. Caso de uso especial cerrado de valvula.  
 Cerrar la valvula inmediatamente que empieza a abrirse.  
-Este caso de uso es normalmente cuando estamos físicamente ahi en la valvula, prendemos nuestro enchufe inteligente el cual a su vez prende arduino y empieza a abrise la valvula pero de pronto queremos que se cierre.  
+Este caso de uso es normalmente cuando estamos físicamente ahi en la valvula, prendemos nuestro enchufe inteligente el cual a su vez prende arduino y empieza a abrirse la valvula pero de pronto queremos que se cierre.  
 Lo único que hay que hacer es apagar el enchufe inteligente y volverlo a prender.  
 También, en dado caso que se tenga fácil acceso al botón de reinicio del arduino, también tendrá el mismo efecto.  
   
