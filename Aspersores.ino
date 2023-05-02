@@ -13,7 +13,6 @@ AF_DCMotor motor(1);
                                       // Se recomienda utilizar aflojatodo en la llave para que no se atasque.
                                       // El manipulador electrico ya trae protección de sobre corriente. Los 10s que se dejan de seguridad no debe pasar nada.
 #define TIEMPO_DE_RIEGO 120000        // 2min. 2*60*1000. No multiplicar aquí. El preprocesador no soporta números grandes, poner el valor exacto.
-#define REINICIAR_CICLO 10800000      // 3h. 3*60*60*1000. No multiplicar aquí. El preprocesador no soporta números grandes, poner el valor exacto.
 #define IDLE_TIME 250
 
 #define STATE_APERTURA 1
